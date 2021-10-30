@@ -10,7 +10,7 @@
  Little to none. This isn't meant to be a project to improve blocking out. There are already tools in Unreal Engine for that. This is simply just a project that I had an idea for randomly and I wanted to see how possible it was.
  
 ## Can I use this?
-  Sure! There are some project files above if you want to import them, However, I really do not recommend using this if you're not planning on 
+  Sure! There are some project files above if you want to import them, However, I really do not recommend using this if you're not planning to just mess around with it.
   
 ## Example of Text File
  ```
