@@ -1,0 +1,12 @@
+name: MinecraftToUE4
+version: '${project.version}'
+main: me.jaskowicz.minecrafttoue4.MinecraftToUE4
+api-version: 1.17
+authors: [ Jaskowicz ]
+description: Bringing Minecraft to UE4
+website: jaskowicz.xyz
+
+commands:
+  minecrafttoue4:
+    description: The main command.
+    aliases: [mctoue4]
