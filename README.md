@@ -15,6 +15,8 @@
 ## Can I use this?
   Sure! There are some project files above if you want to import them, However, I really do not recommend using this if you're not planning to just mess around with it.
   
+  Drag everything but "MinecraftPlugin" and all that folder's content to the unreal project folder you'll be using.
+  
 ## Example of Text File
  ```
  wood,0,0,0
