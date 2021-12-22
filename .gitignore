@@ -1,0 +1,33 @@
+# Ignore files by type
+*.swatches
+*.sln
+*.sdf
+*.suo
+
+# Ignore directories
+
+Build
+DerivedDataCache
+Intermediate
+Saved
+.vs
+.idea
+
+# Ignore VS stuff
+.vs/
+.idea/
+Project.sln
+
+# Ignore generated folders
+Binaries/*
+Build/*
+Intermediate/*
+DerivedDataCache/*
+Saved/*
+
+# Ignore Plugin Generated Folders.
+Plugins/**/Binaries/*
+Plugins/**/Build/*
+Plugins/**/Intermediate/*
+Plugins/**/DerivedDataCache/*
+Plugins/**/Saved/*
