@@ -15,7 +15,7 @@
 ## Can I use this?
   Sure! There are some project files above if you want to import them, However, I really do not recommend using this if you're not planning to just mess around with it.
   
-  Drag everything but "MinecraftPlugin" and all that folder's content to the unreal project folder you'll be using.
+  Just download the zip, unzip it to a folder and open the .uproject. It may take some time and it will create new folders. This is because I'm leaving out folders that aren't required.
   
 ## Example of Text File
  ```
@@ -28,3 +28,11 @@
  
 ## Isn't using Spawn Actor multiple times bad?
  Yes. It is. But with this instance, all the blocks have shadows disabled and tick disabled. This will improve performance quite a bit. Again, this project isn't meant for blocking out levels, nor is it meant for production use. This project is simply just for fun.
+ 
+## Why are you using a text file rather than something more organised?
+
+ Good question. The reason for this is because I'm simply creating something for the fun of it. I've thought about putting it into a yml anyways, however, I'm not that bothered about it and it'll work the same as a .txt file.
+ 
+## Credit:
+
+ Credit to Garry's Mod for the missing texture image that's used within the project.
